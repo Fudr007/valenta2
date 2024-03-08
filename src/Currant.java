@@ -7,7 +7,7 @@ public class Currant extends Flower{
 
     @Override
     public void waters(){
-        this.chanceOfGrowth += 5;
+        this.chanceOfGrowth += 4;
     }
 
 }
